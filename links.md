@@ -16,3 +16,7 @@ Tell the differences between Vi and Vim, including multi-level undo, flexible in
 horizontal scrolling, and many more. It's really helpful if you want to know the comparison between each other.
 2. [90 Linux Commands frequently used by Linux Sysadmins](https://haydenjames.io/90-linux-commands-frequently-used-by-linux-sysadmins/)<br>
 Provide 90 Linux Commands that are very helpful in exploring Linux.
+3. [C Programming Language](https://www.geeksforgeeks.org/c-programming-language/)</br>
+Learn all about C Programming Language like some basics, Variable Declaration, Definition and Scope, Data Types, and else.
+4. [Makefile Tutorial](https://makefiletutorial.com/)<br>
+Discuss way to write Makefile 
