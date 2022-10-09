@@ -20,3 +20,5 @@ Provide 90 Linux Commands that are very helpful in exploring Linux.
 Learn all about C Programming Language like some basics, Variable Declaration, Definition and Scope, Data Types, and else.
 4. [Makefile Tutorial](https://makefiletutorial.com/)<br>
 Discuss way to write Makefile 
+5. [C Programming Operators](https://www.programiz.com/c-programming/c-operators)<br>
+Learn about operators in C such as Arithmetic Operators, Increment and Decrement Operators, Assignment Operators, Relational Operators, Logical Operators, and else.
