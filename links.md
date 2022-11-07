@@ -22,3 +22,5 @@ Learn all about C Programming Language like some basics, Variable Declaration, D
 Discuss way to write Makefile 
 5. [C Programming Operators](https://www.programiz.com/c-programming/c-operators)<br>
 Learn about operators in C such as Arithmetic Operators, Increment and Decrement Operators, Assignment Operators, Relational Operators, Logical Operators, and else.
+6. [UNIX / Linux Processes: C fork() Function](https://www.thegeekstuff.com/2012/05/c-fork-function/)<br>
+Explain about fork() function.
