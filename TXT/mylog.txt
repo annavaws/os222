@@ -61,3 +61,10 @@ ZCZC W06  15 L41 TXT/mylog.txt related
 ZCZC W06  20 L43 TXT/myrank.txt related
 ZCZC W06  20 L00 General, etc.
 ZCZC W06  30 L01 SCELE/Discord related
+ZCZC W07 200 L99 Face-to-face lecture.
+ZCZC W07  90 L05 QUIZ related including studying
+ZCZC W07  90 L09 Weekly Assignment
+ZCZC W07  15 L41 TXT/mylog.txt related
+ZCZC W07  20 L43 TXT/myrank.txt related
+ZCZC W07  20 L00 General, etc.
+ZCZC W07  30 L01 SCELE/Discord related

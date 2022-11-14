@@ -24,3 +24,5 @@ Discuss way to write Makefile
 Learn about operators in C such as Arithmetic Operators, Increment and Decrement Operators, Assignment Operators, Relational Operators, Logical Operators, and else.
 6. [UNIX / Linux Processes: C fork() Function](https://www.thegeekstuff.com/2012/05/c-fork-function/)<br>
 Explain about fork() function.
+7. [What are PID and PPID](https://delightlylinux.wordpress.com/2012/06/25/what-is-pid-and-ppid/)<br>
+Explaining about PID and PPID. 
