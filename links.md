@@ -28,3 +28,5 @@ Explain about fork() function.
 Explaining about PID and PPID. 
 8. [Compiling a Cross Toolchain](https://you.be/6Mw4l0khpCU)
 Tutorial to Compile a Cross Toolchain
+9. [ What is Swap in Linux and Useful Commands to work with Swap Space in Linux?](https://www.devopsschool.com/blog/what-is-swap-in-linux-and-useful-commands-to-work-with-swap-space-in-linux/)
+Explain about swap in linux
