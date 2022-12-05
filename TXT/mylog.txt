@@ -84,3 +84,11 @@ ZCZC W09  15 L41 TXT/mylog.txt related
 ZCZC W09  20 L43 TXT/myrank.txt related
 ZCZC W09  20 L00 General, etc
 ZCZC W09  30 L01 Scele/Discord related
+ZCZC W10 100 L99 Face-to-face lecture
+ZCZC W10  90 L05 Quiz related including studying
+ZCZC W10 300 L09 Weekly Assignment
+ZCZC W10 100 L02 Zoom meetings
+ZCZC W10  15 L41 TXT/mylog.txt related
+ZCZC W10  20 L43 TXT/myrank.txt related
+ZCZC W10  20 L00 General, etc
+ZCZC W10  30 L01 Scele/Discord related
