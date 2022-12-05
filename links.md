@@ -30,3 +30,5 @@ Explaining about PID and PPID.
 Tutorial to Compile a Cross Toolchain
 9. [ What is Swap in Linux and Useful Commands to work with Swap Space in Linux?](https://www.devopsschool.com/blog/what-is-swap-in-linux-and-useful-commands-to-work-with-swap-space-in-linux/)
 Explain about swap in linux
+10. [Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)
+Definition of Process Scheduling, Process Scheduling Queues, Two-State Process Model, and else.
